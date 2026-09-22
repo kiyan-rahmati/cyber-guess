@@ -1,7 +1,7 @@
 # CYBER GUESS — Laravel Web Game
 
 نسخه مدرن پروژه با Laravel 12 + PHP 8.2+ + Vue 3 + Vite + MySQL.
-
+![Cyber Guess Preview](public/images/cyber-guess-preview.jpg)
 ## اجرا در ویندوز
 
 پیش‌نیازها:
